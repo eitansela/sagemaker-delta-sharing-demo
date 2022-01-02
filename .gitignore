@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.DS_Store
+delta_lake_scikit_learn_local_training_and_serving/.DS_Store
+delta_lake_scikit_learn_local_training_and_serving/code/.DS_Store
