@@ -135,3 +135,4 @@ delta_lake_scikit_learn_local_training_and_serving/code/.DS_Store
 .idea/modules.xml
 .idea/sagemaker-delta-sharing-demo.iml
 .idea/vcs.xml
+.idea/workspace.xml
