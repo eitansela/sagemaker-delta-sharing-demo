@@ -12,7 +12,7 @@ The repository contains the following resources:
   - [**Delta Lake scikit-learn Script Mode Training and Serving**](delta_lake_scikit_learn_training_and_serving):  This example shows how to train a scikit-learn model on the boston-housing dataset fetched from Delta Lake, and then serve your model with scikit-learn and SageMaker script mode.
   - [**Delta Lake Bring Your Own Container Processing Job**](delta_lake_bring_your_own_container_processing):  This example provides a detailed walk-through on how to package a scikit-learn Docker image for processing job that fetch data from a table on Delta Lake, and aggregate total COVID-19 cases per country. 
     
-
+<b>Those notebooks were tested on SageMaker Studio with Python 3 (Data Science) Kernel.</b>
 
 ## Questions?
 
