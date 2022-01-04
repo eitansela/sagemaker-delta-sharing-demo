@@ -5,7 +5,7 @@ This repository contains examples and related resources showing you how to prepr
 
 The examples in this repository are for demo purposes only and not meant to be used in production:
 - The solution  is missing appropriate authorization/authentication tokens.
-- Transfer of data over the cloud will be challenge for large datasets, mainly from cost perspective. 
+- Transfer of data over the cloud will be a challenge for large datasets, mainly from cost perspective. 
 
 ### Repository Structure
 
