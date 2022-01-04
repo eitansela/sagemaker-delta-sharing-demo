@@ -1,7 +1,11 @@
 ## Amazon SageMaker Delta Sharing Examples
 ![AWS ML](img/aws_ml.png) ![Docker](img/docker.png) ![Delta Sharing](img/delta-sharing.png) 
 
-This repository contains examples and related resources showing you how to preprocess, train, and serve your models using Amazon SageMaker with data fetched from [Delta Lake](https://github.com/delta-io/delta-sharing). 
+This repository contains examples and related resources showing you how to preprocess, train, and serve your models using Amazon SageMaker with data fetched from [Delta Lake](https://github.com/delta-io/delta-sharing).
+
+The examples in this repository are for demo purposes only and not meant to be used in production:
+- The solution  is missing appropriate authorization/authentication tokens.
+- Transfer of data over the cloud will be challenge for large datasets, mainly from cost perspective. 
 
 ### Repository Structure
 
