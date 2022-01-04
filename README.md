@@ -3,10 +3,6 @@
 
 This repository contains examples and related resources showing you how to preprocess, train, and serve your models using Amazon SageMaker with data fetched from [Delta Lake](https://github.com/delta-io/delta-sharing).
 
-The examples in this repository are for demo purposes only and not meant to be used in production:
-- The solution  is missing appropriate authorization/authentication tokens.
-- Transfer of data over the cloud will be a challenge for large datasets, mainly from cost perspective. 
-
 ### Repository Structure
 
 The repository contains the following resources:
@@ -17,6 +13,11 @@ The repository contains the following resources:
   - [**Delta Lake Bring Your Own Container Processing Job**](delta_lake_bring_your_own_container_processing):  This example provides a detailed walk-through on how to package a scikit-learn Docker image for processing job that fetch data from a table on Delta Lake, and aggregate total COVID-19 cases per country. 
     
 <b>Those notebooks were tested on SageMaker Studio with Python 3 (Data Science) Kernel.</b>
+
+Disclaimer: The examples in this repository are for demo purposes only and not meant to be used in production:
+- The solution  is missing appropriate authorization/authentication tokens.
+- Transfer of data over the cloud will be a challenge for large datasets, mainly from cost perspective. 
+
 
 ## Questions?
 
